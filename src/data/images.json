@@ -1,0 +1,105 @@
+{
+  "categories": {
+    "refrigerator": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0256c8ada756.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2b416b907942.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c002f8ce5569.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0a1bc7511579.webp",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f7d955d17935.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/af0b50d018ca.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/152ee14f8b84.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f82a5e9a86b3.jpeg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c4d0e10b4f5e.jpg"
+    ],
+    "washing-machine": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/64976df3c944.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/98c2ed2d615e.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/907114ae5848.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f0aa2746ac6f.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dcf934911061.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/378d085f5361.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f6abab833076.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/44878d333001.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/60a6f6e11e90.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/87b06c0c6ea1.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/82cca1f28dde.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6675a3bdc05c.jpg"
+    ],
+    "dishwasher": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2a4dbf4c1380.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ca3f84fb7c9d.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/abaaaa8db954.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d4cdbdad79f4.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cea5dbc48654.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e551d62ca1d.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9aafc813a3e6.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/390c88825e4e.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2459cf365601.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b5ad3dc296c3.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c2b789135c2d.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/11757fff56f7.jpg"
+    ],
+    "tv": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/920cfa38977b.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/55bc7c3c2941.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/c8e4d567ef32.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/df4907aa248f.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/190f215e28e9.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/19f925ee466a.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/40cd4d8220d6.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/0980b21c7ecd.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/69b91a524005.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d2a84b7e51cd.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/dd7d8a3ccfc2.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/98f85a6ce614.jpg"
+    ],
+    "vacuum": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d1c349305b58.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b326deed0d36.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b21d11f955b4.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/7b563285eaad.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a27c3da3a180.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9e6bb8b9fc2a.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a8059c377515.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f7ed1afefaf7.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a90d4a5455e3.png"
+    ],
+    "cooking": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d74c989e1608.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f8c5abdaf5c7.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/6c7cb9345b68.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5e1132533e4d.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/e38102be29e5.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/33bd5c415678.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a7409429f04b.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f3c8ac6e381d.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/9afbacfbcebb.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a96ecf2d28f8.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/5d3ead361305.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/cacc138db5c1.webp"
+    ],
+    "air-conditioner": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/3e433661bd97.jpeg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/2f4e558f73ae.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f08e244fd985.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a27b050cd5af.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8640919f5829.png",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4bdb5f537c44.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/04dd6456e78b.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/eabb77e0ae34.jpg"
+    ],
+    "small-appliance": [
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/68196894df20.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/a4dc559b812d.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/8e2d0d9f927f.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/93c4a285c138.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4b0c51d283a3.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/f6fa31dc1246.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/ee7060055b2f.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/69f83b5ecc6c.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/4192f40eb560.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/d73a2e2333b4.jpg",
+      "https://z-cdn.chatglm.cn/image-search-mcp/images-ppt/b3ea2a863112.jpg"
+    ]
+  }
+}

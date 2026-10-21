@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600" viewBox="0 0 600 600">
+  <rect width="600" height="600" fill="#f2f5f7"/>
+  <g fill="none" stroke="#b8c4cc" stroke-width="10">
+    <rect x="150" y="130" width="300" height="340" rx="24"/>
+    <line x1="150" y1="300" x2="450" y2="300"/>
+  </g>
+  <g fill="none" stroke="#b8c4cc" stroke-width="10" stroke-linecap="round">
+    <line x1="230" y1="200" x2="230" y2="230"/>
+    <circle cx="230" cy="380" r="34"/>
+  </g>
+  <text x="300" y="540" text-anchor="middle" font-family="Tahoma, sans-serif" font-size="26" fill="#8b98a3">تصویر محصول</text>
+</svg>
